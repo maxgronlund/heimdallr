@@ -1,9 +1,10 @@
 # Heimdallr
-[wikipedia](https://en.wikipedia.org/wiki/Heimdallr "Heimdallr")
+[read about the name on wikipedia](https://en.wikipedia.org/wiki/Heimdallr "Heimdallr")
 
 User authorization for Phoenix.
 I real need a lot of fearures so why not make it a collaborative project
 
+---
 ### Roadmap
 
 1. Throw in idears suggestions and needs
@@ -11,7 +12,9 @@ I real need a lot of fearures so why not make it a collaborative project
 3. Find a starting point and make something simple stupid
 
 
-It's composed of multiply modules: (Inspired by devise)
+Should be composed of multiply modules: (Inspired by devise)
+I would like the GUI to be transparent and easy to style
+It should be real easy to modify controllers and models without breaking the opertunity to upgrade
 
 * Encrypts and stores a password in the database to validate the authenticity of a user while signing in. The authentication can be done both through POST requests or HTTP Basic Authentication.
 * oAuth2  support.
@@ -28,6 +31,7 @@ It's composed of multiply modules: (Inspired by devise)
 * Handle user based permissions 
 
 
+---
 ### To do
 
 1. Get some advice, I know nothing about running an opensource project
@@ -40,7 +44,8 @@ It's composed of multiply modules: (Inspired by devise)
 8. Make an API to other aps can registere true Heimdallr
 
 
-
+---
+### Resources
 [oauth2](https://github.com/scrogson/oauth2 "oauth2") for Elixir  
 [guardian](https://github.com/hassox/guardian "guardian") for Elixir  
 
