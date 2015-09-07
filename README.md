@@ -1,8 +1,7 @@
 # Heimdallr
 [read about the name on wikipedia](https://en.wikipedia.org/wiki/Heimdallr "Heimdallr")
 
-User authorization for Phoenix.
-I real need a lot of fearures so why not make it a collaborative project
+User authorization and social integration framework for Phoenix.
 
 ---
 ### Roadmap
@@ -13,8 +12,7 @@ I real need a lot of fearures so why not make it a collaborative project
 
 
 Should be composed of multiply modules: (Inspired by devise)
-I would like the GUI to be transparent and easy to style
-It should be real easy to modify controllers and models without breaking the opertunity to upgrade
+
 
 * Encrypts and stores a password in the database to validate the authenticity of a user while signing in. The authentication can be done both through POST requests or HTTP Basic Authentication.
 * oAuth2  support.
@@ -29,7 +27,7 @@ It should be real easy to modify controllers and models without breaking the ope
 * Connect multiply authorization providers to the same user, Facebook, Twitter 
 * Handle role based permissions
 * Handle user based permissions 
-
+* Let other apps authorize true an api (oauth2)
 
 ---
 ### To do
@@ -42,6 +40,11 @@ It should be real easy to modify controllers and models without breaking the ope
 6. How should it be packaged
 7. Make it extenciable
 8. Make an API to other aps can registere true Heimdallr
+
+
+### Suggestions
+1. Don't make the GUI a part of the project, but make real great cook-book style guides
+2. Build it on top of existing frameworks
 
 
 ---
