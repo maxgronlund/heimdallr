@@ -1,18 +1,20 @@
 # Heimdallr
+[wikipedia](https://en.wikipedia.org/wiki/Heimdallr "Heimdallr")
 
-User authorization for Phoenix
+User authorization for Phoenix.
+I real need a lot of fearures so why not make it a collaborative project
 
 ### Roadmap
 
-* Throw in idears suggestions and needs
-* Investigate what is there and can it be used
-* Find a starting point and make something simple stupid
+1. Throw in idears suggestions and needs
+2. Investigate what is there and can it be used
+3. Find a starting point and make something simple stupid
 
 
-It's composed of 10 modules: (Inspired by devise)
+It's composed of multiply modules: (Inspired by devise)
 
 * Encrypts and stores a password in the database to validate the authenticity of a user while signing in. The authentication can be done both through POST requests or HTTP Basic Authentication.
-* oauth2  support.
+* oAuth2  support.
 * Sends emails with confirmation instructions and verifies whether an account is already confirmed during sign in.
 * Resets the user password and sends reset instructions.
 * Handles signing up users through a registration process, also allowing them to edit and destroy their account.
@@ -24,6 +26,18 @@ It's composed of 10 modules: (Inspired by devise)
 * Connect multiply authorization providers to the same user, Facebook, Twitter 
 * Handle role based permissions
 * Handle user based permissions 
+
+
+### To do
+
+1. Get some advice, I know nothing about running an opensource project
+2. Make sure not to reinvent the wheel. What's out there and what can be used
+3. Draft up the ERD and get some feedback
+4. Draft up some sequence diagrams
+5. Get names on models and functions that totaly rocks
+6. How should it be packaged
+7. Make it extenciable
+8. Make an API to other aps can registere true Heimdallr
 
 
 
