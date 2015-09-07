@@ -1,7 +1,7 @@
 # Heimdallr
 [read about the name on wikipedia](https://en.wikipedia.org/wiki/Heimdallr "Heimdallr")
 
-User authorization and social integration framework for Phoenix.
+User authorization and social integration framework for [Phoenix](http://phoenixframework.org "Phoenix").
 
 ---
 ### Roadmap
