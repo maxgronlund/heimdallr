@@ -27,8 +27,8 @@ It's composed of 10 modules: (Inspired by devise)
 
 
 
-[oauth2](https://github.com/scrogson/oauth2 "oauth2") for Elixir
-[guardian](https://github.com/hassox/guardian "guardian") for Elixir
+[oauth2](https://github.com/scrogson/oauth2 "oauth2") for Elixir  
+[guardian](https://github.com/hassox/guardian "guardian") for Elixir  
 
 http://www.linuxfromscratch.org/blfs/view/7.5/postlfs/acl.html
 
