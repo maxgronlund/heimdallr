@@ -9,7 +9,7 @@
 ### Roadmap
 
 1. Throw in idears suggestions and needs
-2. Investigate what is there and can it be used
+2. Investigate what's out there and can it be used
 3. Find a starting point and make something simple stupid
 
 
@@ -53,7 +53,7 @@ Should be composed of multiply modules: (Inspired by devise)
 
 ### Contributing
 
-We hope that you will consider contributing to Devise. Please read this short overview for some information about how to get started:
+I hope that you will consider contributing to Heimdallr. please drop me an e-mail max@digiramp.com
 
 
 ---
