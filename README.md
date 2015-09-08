@@ -30,19 +30,20 @@ Should be composed of multiply modules: (Inspired by devise)
 * Handle role based permissions
 * Handle user based permissions 
 * Let other apps authorize true an api (oauth2)
+* Two-factor authentication
 
 ---
 ### To do
 
-1. Get some advice, I know nothing about running an opensource project
-2. Make sure not to reinvent the wheel. What's out there and what can be used
-3. Draft up the ERD and get some feedback
-4. Draft up some sequence diagrams
-5. Get names on models and functions that totaly rocks
-6. How should it be packaged
-7. Make it extenciable
-8. Make an API to other aps can registere true Heimdallr
-9. Make demo projects with automated test
+- [ ] Get some advice, I know nothing about running an opensource project
+- [ ] Make sure not to reinvent the wheel. What's out there and what can be used
+- [ ] Draft up the ERD and get some feedback
+- [ ] Draft up some sequence diagrams
+- [ ] Get names on models and functions that totaly rocks
+- [ ] How should it be packaged
+- [ ] Make it extendable
+- [ ] Make an API to other aps can registere true Heimdallr
+- [ ] Make demo projects with automated test
 
 
 ### Suggestions
@@ -56,6 +57,10 @@ Should be composed of multiply modules: (Inspired by devise)
 I hope that you will consider contributing to Heimdallr.  
 Please drop me an e-mail max@digiramp.com  
 I have also started a #Slack team https://heimdallr.slack.com
+
+### TODO
+
+
 
 
 ---
