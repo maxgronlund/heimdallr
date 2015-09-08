@@ -53,7 +53,9 @@ Should be composed of multiply modules: (Inspired by devise)
 
 ### Contributing
 
-I hope that you will consider contributing to Heimdallr. please drop me an e-mail max@digiramp.com
+I hope that you will consider contributing to Heimdallr.  
+Please drop me an e-mail max@digiramp.com  
+I have also started a #Slack team https://heimdallr.slack.com
 
 
 ---
