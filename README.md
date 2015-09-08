@@ -1,7 +1,9 @@
 # Heimdallr
-[read about the name on wikipedia](https://en.wikipedia.org/wiki/Heimdallr "Heimdallr")
+[Heimdallr](https://en.wikipedia.org/wiki/Heimdallr "Heimdallr")
+* Heimdallr makes it easy to build phoenix web applications with features related to user accounts
+* Heimdallr is a user authorization and social integration framework for [Phoenix](http://phoenixframework.org "Phoenix").
+* Heimdallr is easy to customize and style
 
-User authorization and social integration framework for [Phoenix](http://phoenixframework.org "Phoenix").
 
 ---
 ### Roadmap
