@@ -40,11 +40,18 @@ Should be composed of multiply modules: (Inspired by devise)
 6. How should it be packaged
 7. Make it extenciable
 8. Make an API to other aps can registere true Heimdallr
+9. Make demo projects with automated test
 
 
 ### Suggestions
-1. Don't make the GUI a part of the project, but make real great cook-book style guides
+1. Don't make the GUI a part of the project, but make real a great cook-book style guides
 2. Build it on top of existing frameworks
+
+
+
+### Contributing
+
+We hope that you will consider contributing to Devise. Please read this short overview for some information about how to get started:
 
 
 ---
