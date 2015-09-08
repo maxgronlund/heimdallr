@@ -66,7 +66,8 @@ I have also started a #Slack team https://heimdallr.slack.com
 ---
 ### Resources
 [oauth2](https://github.com/scrogson/oauth2 "oauth2") for Elixir  
-[guardian](https://github.com/hassox/guardian "guardian") for Elixir  
+[guardian](https://github.com/hassox/guardian "guardian") for Elixir 
+[addict](https://github.com/trenpixster/addict "addict") User registration lib for Elixir 
 
 http://www.linuxfromscratch.org/blfs/view/7.5/postlfs/acl.html
 
