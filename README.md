@@ -32,7 +32,7 @@ Should be composed of multiply modules: (Inspired by devise)
 * Let other apps authorize true an api (oauth2)
 * Two-factor authentication
 
----
+
 ### To do
 
 - [ ] Get some advice, I know nothing about running an opensource project
@@ -58,12 +58,8 @@ I hope that you will consider contributing to Heimdallr.
 Please drop me an e-mail max@digiramp.com  
 I have also started a #Slack team https://heimdallr.slack.com
 
-### TODO
 
 
-
-
----
 ### Resources
 [oauth2](https://github.com/scrogson/oauth2 "oauth2") for Elixir  
 [guardian](https://github.com/hassox/guardian "guardian") for Elixir   
