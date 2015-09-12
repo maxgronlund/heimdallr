@@ -6,8 +6,9 @@
 * Heimdallr is easy to customize and style
 
 ### Background / need
-I'm planning to make a port of DigiRAMP. On DigiRAMP users can signup with social accounts like Facebook Twitter etc...
+I'm planning to make a port of DigiRAMP. On DigiRAMP users can signup with social accounts like Facebook Twitter etc
 Users can also link multiply signups to one account. This way they can post directly to their social accounts and receive money true Stripe. I have riped off the specs from Devise.
+
 ---
 ### Roadmap
 
