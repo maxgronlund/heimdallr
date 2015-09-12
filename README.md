@@ -1,19 +1,22 @@
 # Heimdallr
 [Heimdallr](https://en.wikipedia.org/wiki/Heimdallr "Heimdallr")
+
 * Heimdallr makes it easy to build phoenix web applications with features related to user accounts
 * Heimdallr is a user authorization and social integration framework for [Phoenix](http://phoenixframework.org "Phoenix").
 * Heimdallr is easy to customize and style
 
-
+### Background / need
+I'm planning to make a port of DigiRAMP. On DigiRAMP users can signup with social accounts like Facebook Twitter etc...
+Users can also link multiply signups to one account. This way they can post directly to their social accounts and receive money true Stripe. I have riped off the specs from Devise.
 ---
 ### Roadmap
 
 1. Throw in idears suggestions and needs
-2. Investigate what's out there and can it be used
+2. Investigate what's out there and can it be used (addict)
 3. Find a starting point and make something simple stupid
 
 
-Should be composed of multiply modules: (Inspired by devise)
+Should be composed of multiply modules: Inspired by Devise (Rails gem)
 
 
 * Encrypts and stores a password in the database to validate the authenticity of a user while signing in. The authentication can be done both through POST requests or HTTP Basic Authentication.
